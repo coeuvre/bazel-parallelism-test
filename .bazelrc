@@ -3,7 +3,7 @@ build:remote --jobs=500
 build:remote --extra_toolchains=@rbe_default//config:cc-toolchain
 build:remote --extra_execution_platforms=@rbe_default//config:platform
 build:remote --host_platform=@rbe_default//config:platform
-build:remote --platforms=@rbe_default//config:platform
+build:remote --platforms=//:rbe_platform_parallelism_test
 
 # Starting with Bazel 0.27.0 strategies do not need to be explicitly
 # defined. See https://github.com/bazelbuild/bazel/issues/7480

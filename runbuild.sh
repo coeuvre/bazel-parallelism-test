@@ -1,7 +1,7 @@
 #!/bin/bash
 
-export RBE_INSTANCE="<enter instance name>"
-export CREDENTIALS_FILE="<enter path to credential file>"
+export RBE_INSTANCE="<instance name>"
+export CREDENTIALS_FILE="<credentials file path>"
 
 bazelisk \
     --bazelrc=.bazelrc \

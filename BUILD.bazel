@@ -1,3 +1,15 @@
+platform(
+    name = "rbe_platform_parallelism_test",
+    parents = ["@rbe_default//config:platform"],
+    remote_execution_properties = """
+        {PARENT_REMOTE_EXECUTION_PROPERTIES}
+        properties: {
+            "name": "Pool",
+            "value": "default2",
+        }
+    """,
+)
+
 genrule(
   name = "parallelism-test-1",
   srcs = [],
