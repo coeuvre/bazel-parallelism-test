@@ -1,0 +1,3000 @@
+genrule(
+  name = "parallelism-test-1",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["1.txt"],
+)
+genrule(
+  name = "parallelism-test-2",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["2.txt"],
+)
+genrule(
+  name = "parallelism-test-3",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["3.txt"],
+)
+genrule(
+  name = "parallelism-test-4",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["4.txt"],
+)
+genrule(
+  name = "parallelism-test-5",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["5.txt"],
+)
+genrule(
+  name = "parallelism-test-6",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["6.txt"],
+)
+genrule(
+  name = "parallelism-test-7",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["7.txt"],
+)
+genrule(
+  name = "parallelism-test-8",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["8.txt"],
+)
+genrule(
+  name = "parallelism-test-9",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["9.txt"],
+)
+genrule(
+  name = "parallelism-test-10",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["10.txt"],
+)
+genrule(
+  name = "parallelism-test-11",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["11.txt"],
+)
+genrule(
+  name = "parallelism-test-12",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["12.txt"],
+)
+genrule(
+  name = "parallelism-test-13",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["13.txt"],
+)
+genrule(
+  name = "parallelism-test-14",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["14.txt"],
+)
+genrule(
+  name = "parallelism-test-15",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["15.txt"],
+)
+genrule(
+  name = "parallelism-test-16",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["16.txt"],
+)
+genrule(
+  name = "parallelism-test-17",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["17.txt"],
+)
+genrule(
+  name = "parallelism-test-18",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["18.txt"],
+)
+genrule(
+  name = "parallelism-test-19",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["19.txt"],
+)
+genrule(
+  name = "parallelism-test-20",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["20.txt"],
+)
+genrule(
+  name = "parallelism-test-21",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["21.txt"],
+)
+genrule(
+  name = "parallelism-test-22",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["22.txt"],
+)
+genrule(
+  name = "parallelism-test-23",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["23.txt"],
+)
+genrule(
+  name = "parallelism-test-24",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["24.txt"],
+)
+genrule(
+  name = "parallelism-test-25",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["25.txt"],
+)
+genrule(
+  name = "parallelism-test-26",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["26.txt"],
+)
+genrule(
+  name = "parallelism-test-27",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["27.txt"],
+)
+genrule(
+  name = "parallelism-test-28",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["28.txt"],
+)
+genrule(
+  name = "parallelism-test-29",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["29.txt"],
+)
+genrule(
+  name = "parallelism-test-30",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["30.txt"],
+)
+genrule(
+  name = "parallelism-test-31",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["31.txt"],
+)
+genrule(
+  name = "parallelism-test-32",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["32.txt"],
+)
+genrule(
+  name = "parallelism-test-33",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["33.txt"],
+)
+genrule(
+  name = "parallelism-test-34",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["34.txt"],
+)
+genrule(
+  name = "parallelism-test-35",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["35.txt"],
+)
+genrule(
+  name = "parallelism-test-36",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["36.txt"],
+)
+genrule(
+  name = "parallelism-test-37",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["37.txt"],
+)
+genrule(
+  name = "parallelism-test-38",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["38.txt"],
+)
+genrule(
+  name = "parallelism-test-39",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["39.txt"],
+)
+genrule(
+  name = "parallelism-test-40",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["40.txt"],
+)
+genrule(
+  name = "parallelism-test-41",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["41.txt"],
+)
+genrule(
+  name = "parallelism-test-42",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["42.txt"],
+)
+genrule(
+  name = "parallelism-test-43",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["43.txt"],
+)
+genrule(
+  name = "parallelism-test-44",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["44.txt"],
+)
+genrule(
+  name = "parallelism-test-45",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["45.txt"],
+)
+genrule(
+  name = "parallelism-test-46",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["46.txt"],
+)
+genrule(
+  name = "parallelism-test-47",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["47.txt"],
+)
+genrule(
+  name = "parallelism-test-48",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["48.txt"],
+)
+genrule(
+  name = "parallelism-test-49",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["49.txt"],
+)
+genrule(
+  name = "parallelism-test-50",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["50.txt"],
+)
+genrule(
+  name = "parallelism-test-51",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["51.txt"],
+)
+genrule(
+  name = "parallelism-test-52",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["52.txt"],
+)
+genrule(
+  name = "parallelism-test-53",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["53.txt"],
+)
+genrule(
+  name = "parallelism-test-54",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["54.txt"],
+)
+genrule(
+  name = "parallelism-test-55",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["55.txt"],
+)
+genrule(
+  name = "parallelism-test-56",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["56.txt"],
+)
+genrule(
+  name = "parallelism-test-57",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["57.txt"],
+)
+genrule(
+  name = "parallelism-test-58",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["58.txt"],
+)
+genrule(
+  name = "parallelism-test-59",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["59.txt"],
+)
+genrule(
+  name = "parallelism-test-60",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["60.txt"],
+)
+genrule(
+  name = "parallelism-test-61",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["61.txt"],
+)
+genrule(
+  name = "parallelism-test-62",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["62.txt"],
+)
+genrule(
+  name = "parallelism-test-63",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["63.txt"],
+)
+genrule(
+  name = "parallelism-test-64",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["64.txt"],
+)
+genrule(
+  name = "parallelism-test-65",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["65.txt"],
+)
+genrule(
+  name = "parallelism-test-66",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["66.txt"],
+)
+genrule(
+  name = "parallelism-test-67",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["67.txt"],
+)
+genrule(
+  name = "parallelism-test-68",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["68.txt"],
+)
+genrule(
+  name = "parallelism-test-69",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["69.txt"],
+)
+genrule(
+  name = "parallelism-test-70",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["70.txt"],
+)
+genrule(
+  name = "parallelism-test-71",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["71.txt"],
+)
+genrule(
+  name = "parallelism-test-72",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["72.txt"],
+)
+genrule(
+  name = "parallelism-test-73",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["73.txt"],
+)
+genrule(
+  name = "parallelism-test-74",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["74.txt"],
+)
+genrule(
+  name = "parallelism-test-75",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["75.txt"],
+)
+genrule(
+  name = "parallelism-test-76",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["76.txt"],
+)
+genrule(
+  name = "parallelism-test-77",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["77.txt"],
+)
+genrule(
+  name = "parallelism-test-78",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["78.txt"],
+)
+genrule(
+  name = "parallelism-test-79",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["79.txt"],
+)
+genrule(
+  name = "parallelism-test-80",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["80.txt"],
+)
+genrule(
+  name = "parallelism-test-81",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["81.txt"],
+)
+genrule(
+  name = "parallelism-test-82",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["82.txt"],
+)
+genrule(
+  name = "parallelism-test-83",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["83.txt"],
+)
+genrule(
+  name = "parallelism-test-84",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["84.txt"],
+)
+genrule(
+  name = "parallelism-test-85",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["85.txt"],
+)
+genrule(
+  name = "parallelism-test-86",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["86.txt"],
+)
+genrule(
+  name = "parallelism-test-87",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["87.txt"],
+)
+genrule(
+  name = "parallelism-test-88",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["88.txt"],
+)
+genrule(
+  name = "parallelism-test-89",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["89.txt"],
+)
+genrule(
+  name = "parallelism-test-90",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["90.txt"],
+)
+genrule(
+  name = "parallelism-test-91",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["91.txt"],
+)
+genrule(
+  name = "parallelism-test-92",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["92.txt"],
+)
+genrule(
+  name = "parallelism-test-93",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["93.txt"],
+)
+genrule(
+  name = "parallelism-test-94",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["94.txt"],
+)
+genrule(
+  name = "parallelism-test-95",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["95.txt"],
+)
+genrule(
+  name = "parallelism-test-96",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["96.txt"],
+)
+genrule(
+  name = "parallelism-test-97",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["97.txt"],
+)
+genrule(
+  name = "parallelism-test-98",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["98.txt"],
+)
+genrule(
+  name = "parallelism-test-99",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["99.txt"],
+)
+genrule(
+  name = "parallelism-test-100",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["100.txt"],
+)
+genrule(
+  name = "parallelism-test-101",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["101.txt"],
+)
+genrule(
+  name = "parallelism-test-102",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["102.txt"],
+)
+genrule(
+  name = "parallelism-test-103",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["103.txt"],
+)
+genrule(
+  name = "parallelism-test-104",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["104.txt"],
+)
+genrule(
+  name = "parallelism-test-105",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["105.txt"],
+)
+genrule(
+  name = "parallelism-test-106",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["106.txt"],
+)
+genrule(
+  name = "parallelism-test-107",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["107.txt"],
+)
+genrule(
+  name = "parallelism-test-108",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["108.txt"],
+)
+genrule(
+  name = "parallelism-test-109",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["109.txt"],
+)
+genrule(
+  name = "parallelism-test-110",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["110.txt"],
+)
+genrule(
+  name = "parallelism-test-111",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["111.txt"],
+)
+genrule(
+  name = "parallelism-test-112",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["112.txt"],
+)
+genrule(
+  name = "parallelism-test-113",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["113.txt"],
+)
+genrule(
+  name = "parallelism-test-114",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["114.txt"],
+)
+genrule(
+  name = "parallelism-test-115",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["115.txt"],
+)
+genrule(
+  name = "parallelism-test-116",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["116.txt"],
+)
+genrule(
+  name = "parallelism-test-117",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["117.txt"],
+)
+genrule(
+  name = "parallelism-test-118",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["118.txt"],
+)
+genrule(
+  name = "parallelism-test-119",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["119.txt"],
+)
+genrule(
+  name = "parallelism-test-120",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["120.txt"],
+)
+genrule(
+  name = "parallelism-test-121",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["121.txt"],
+)
+genrule(
+  name = "parallelism-test-122",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["122.txt"],
+)
+genrule(
+  name = "parallelism-test-123",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["123.txt"],
+)
+genrule(
+  name = "parallelism-test-124",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["124.txt"],
+)
+genrule(
+  name = "parallelism-test-125",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["125.txt"],
+)
+genrule(
+  name = "parallelism-test-126",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["126.txt"],
+)
+genrule(
+  name = "parallelism-test-127",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["127.txt"],
+)
+genrule(
+  name = "parallelism-test-128",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["128.txt"],
+)
+genrule(
+  name = "parallelism-test-129",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["129.txt"],
+)
+genrule(
+  name = "parallelism-test-130",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["130.txt"],
+)
+genrule(
+  name = "parallelism-test-131",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["131.txt"],
+)
+genrule(
+  name = "parallelism-test-132",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["132.txt"],
+)
+genrule(
+  name = "parallelism-test-133",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["133.txt"],
+)
+genrule(
+  name = "parallelism-test-134",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["134.txt"],
+)
+genrule(
+  name = "parallelism-test-135",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["135.txt"],
+)
+genrule(
+  name = "parallelism-test-136",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["136.txt"],
+)
+genrule(
+  name = "parallelism-test-137",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["137.txt"],
+)
+genrule(
+  name = "parallelism-test-138",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["138.txt"],
+)
+genrule(
+  name = "parallelism-test-139",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["139.txt"],
+)
+genrule(
+  name = "parallelism-test-140",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["140.txt"],
+)
+genrule(
+  name = "parallelism-test-141",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["141.txt"],
+)
+genrule(
+  name = "parallelism-test-142",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["142.txt"],
+)
+genrule(
+  name = "parallelism-test-143",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["143.txt"],
+)
+genrule(
+  name = "parallelism-test-144",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["144.txt"],
+)
+genrule(
+  name = "parallelism-test-145",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["145.txt"],
+)
+genrule(
+  name = "parallelism-test-146",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["146.txt"],
+)
+genrule(
+  name = "parallelism-test-147",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["147.txt"],
+)
+genrule(
+  name = "parallelism-test-148",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["148.txt"],
+)
+genrule(
+  name = "parallelism-test-149",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["149.txt"],
+)
+genrule(
+  name = "parallelism-test-150",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["150.txt"],
+)
+genrule(
+  name = "parallelism-test-151",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["151.txt"],
+)
+genrule(
+  name = "parallelism-test-152",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["152.txt"],
+)
+genrule(
+  name = "parallelism-test-153",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["153.txt"],
+)
+genrule(
+  name = "parallelism-test-154",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["154.txt"],
+)
+genrule(
+  name = "parallelism-test-155",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["155.txt"],
+)
+genrule(
+  name = "parallelism-test-156",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["156.txt"],
+)
+genrule(
+  name = "parallelism-test-157",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["157.txt"],
+)
+genrule(
+  name = "parallelism-test-158",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["158.txt"],
+)
+genrule(
+  name = "parallelism-test-159",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["159.txt"],
+)
+genrule(
+  name = "parallelism-test-160",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["160.txt"],
+)
+genrule(
+  name = "parallelism-test-161",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["161.txt"],
+)
+genrule(
+  name = "parallelism-test-162",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["162.txt"],
+)
+genrule(
+  name = "parallelism-test-163",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["163.txt"],
+)
+genrule(
+  name = "parallelism-test-164",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["164.txt"],
+)
+genrule(
+  name = "parallelism-test-165",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["165.txt"],
+)
+genrule(
+  name = "parallelism-test-166",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["166.txt"],
+)
+genrule(
+  name = "parallelism-test-167",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["167.txt"],
+)
+genrule(
+  name = "parallelism-test-168",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["168.txt"],
+)
+genrule(
+  name = "parallelism-test-169",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["169.txt"],
+)
+genrule(
+  name = "parallelism-test-170",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["170.txt"],
+)
+genrule(
+  name = "parallelism-test-171",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["171.txt"],
+)
+genrule(
+  name = "parallelism-test-172",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["172.txt"],
+)
+genrule(
+  name = "parallelism-test-173",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["173.txt"],
+)
+genrule(
+  name = "parallelism-test-174",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["174.txt"],
+)
+genrule(
+  name = "parallelism-test-175",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["175.txt"],
+)
+genrule(
+  name = "parallelism-test-176",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["176.txt"],
+)
+genrule(
+  name = "parallelism-test-177",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["177.txt"],
+)
+genrule(
+  name = "parallelism-test-178",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["178.txt"],
+)
+genrule(
+  name = "parallelism-test-179",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["179.txt"],
+)
+genrule(
+  name = "parallelism-test-180",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["180.txt"],
+)
+genrule(
+  name = "parallelism-test-181",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["181.txt"],
+)
+genrule(
+  name = "parallelism-test-182",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["182.txt"],
+)
+genrule(
+  name = "parallelism-test-183",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["183.txt"],
+)
+genrule(
+  name = "parallelism-test-184",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["184.txt"],
+)
+genrule(
+  name = "parallelism-test-185",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["185.txt"],
+)
+genrule(
+  name = "parallelism-test-186",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["186.txt"],
+)
+genrule(
+  name = "parallelism-test-187",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["187.txt"],
+)
+genrule(
+  name = "parallelism-test-188",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["188.txt"],
+)
+genrule(
+  name = "parallelism-test-189",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["189.txt"],
+)
+genrule(
+  name = "parallelism-test-190",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["190.txt"],
+)
+genrule(
+  name = "parallelism-test-191",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["191.txt"],
+)
+genrule(
+  name = "parallelism-test-192",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["192.txt"],
+)
+genrule(
+  name = "parallelism-test-193",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["193.txt"],
+)
+genrule(
+  name = "parallelism-test-194",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["194.txt"],
+)
+genrule(
+  name = "parallelism-test-195",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["195.txt"],
+)
+genrule(
+  name = "parallelism-test-196",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["196.txt"],
+)
+genrule(
+  name = "parallelism-test-197",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["197.txt"],
+)
+genrule(
+  name = "parallelism-test-198",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["198.txt"],
+)
+genrule(
+  name = "parallelism-test-199",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["199.txt"],
+)
+genrule(
+  name = "parallelism-test-200",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["200.txt"],
+)
+genrule(
+  name = "parallelism-test-201",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["201.txt"],
+)
+genrule(
+  name = "parallelism-test-202",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["202.txt"],
+)
+genrule(
+  name = "parallelism-test-203",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["203.txt"],
+)
+genrule(
+  name = "parallelism-test-204",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["204.txt"],
+)
+genrule(
+  name = "parallelism-test-205",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["205.txt"],
+)
+genrule(
+  name = "parallelism-test-206",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["206.txt"],
+)
+genrule(
+  name = "parallelism-test-207",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["207.txt"],
+)
+genrule(
+  name = "parallelism-test-208",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["208.txt"],
+)
+genrule(
+  name = "parallelism-test-209",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["209.txt"],
+)
+genrule(
+  name = "parallelism-test-210",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["210.txt"],
+)
+genrule(
+  name = "parallelism-test-211",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["211.txt"],
+)
+genrule(
+  name = "parallelism-test-212",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["212.txt"],
+)
+genrule(
+  name = "parallelism-test-213",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["213.txt"],
+)
+genrule(
+  name = "parallelism-test-214",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["214.txt"],
+)
+genrule(
+  name = "parallelism-test-215",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["215.txt"],
+)
+genrule(
+  name = "parallelism-test-216",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["216.txt"],
+)
+genrule(
+  name = "parallelism-test-217",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["217.txt"],
+)
+genrule(
+  name = "parallelism-test-218",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["218.txt"],
+)
+genrule(
+  name = "parallelism-test-219",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["219.txt"],
+)
+genrule(
+  name = "parallelism-test-220",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["220.txt"],
+)
+genrule(
+  name = "parallelism-test-221",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["221.txt"],
+)
+genrule(
+  name = "parallelism-test-222",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["222.txt"],
+)
+genrule(
+  name = "parallelism-test-223",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["223.txt"],
+)
+genrule(
+  name = "parallelism-test-224",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["224.txt"],
+)
+genrule(
+  name = "parallelism-test-225",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["225.txt"],
+)
+genrule(
+  name = "parallelism-test-226",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["226.txt"],
+)
+genrule(
+  name = "parallelism-test-227",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["227.txt"],
+)
+genrule(
+  name = "parallelism-test-228",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["228.txt"],
+)
+genrule(
+  name = "parallelism-test-229",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["229.txt"],
+)
+genrule(
+  name = "parallelism-test-230",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["230.txt"],
+)
+genrule(
+  name = "parallelism-test-231",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["231.txt"],
+)
+genrule(
+  name = "parallelism-test-232",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["232.txt"],
+)
+genrule(
+  name = "parallelism-test-233",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["233.txt"],
+)
+genrule(
+  name = "parallelism-test-234",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["234.txt"],
+)
+genrule(
+  name = "parallelism-test-235",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["235.txt"],
+)
+genrule(
+  name = "parallelism-test-236",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["236.txt"],
+)
+genrule(
+  name = "parallelism-test-237",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["237.txt"],
+)
+genrule(
+  name = "parallelism-test-238",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["238.txt"],
+)
+genrule(
+  name = "parallelism-test-239",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["239.txt"],
+)
+genrule(
+  name = "parallelism-test-240",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["240.txt"],
+)
+genrule(
+  name = "parallelism-test-241",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["241.txt"],
+)
+genrule(
+  name = "parallelism-test-242",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["242.txt"],
+)
+genrule(
+  name = "parallelism-test-243",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["243.txt"],
+)
+genrule(
+  name = "parallelism-test-244",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["244.txt"],
+)
+genrule(
+  name = "parallelism-test-245",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["245.txt"],
+)
+genrule(
+  name = "parallelism-test-246",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["246.txt"],
+)
+genrule(
+  name = "parallelism-test-247",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["247.txt"],
+)
+genrule(
+  name = "parallelism-test-248",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["248.txt"],
+)
+genrule(
+  name = "parallelism-test-249",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["249.txt"],
+)
+genrule(
+  name = "parallelism-test-250",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["250.txt"],
+)
+genrule(
+  name = "parallelism-test-251",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["251.txt"],
+)
+genrule(
+  name = "parallelism-test-252",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["252.txt"],
+)
+genrule(
+  name = "parallelism-test-253",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["253.txt"],
+)
+genrule(
+  name = "parallelism-test-254",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["254.txt"],
+)
+genrule(
+  name = "parallelism-test-255",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["255.txt"],
+)
+genrule(
+  name = "parallelism-test-256",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["256.txt"],
+)
+genrule(
+  name = "parallelism-test-257",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["257.txt"],
+)
+genrule(
+  name = "parallelism-test-258",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["258.txt"],
+)
+genrule(
+  name = "parallelism-test-259",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["259.txt"],
+)
+genrule(
+  name = "parallelism-test-260",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["260.txt"],
+)
+genrule(
+  name = "parallelism-test-261",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["261.txt"],
+)
+genrule(
+  name = "parallelism-test-262",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["262.txt"],
+)
+genrule(
+  name = "parallelism-test-263",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["263.txt"],
+)
+genrule(
+  name = "parallelism-test-264",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["264.txt"],
+)
+genrule(
+  name = "parallelism-test-265",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["265.txt"],
+)
+genrule(
+  name = "parallelism-test-266",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["266.txt"],
+)
+genrule(
+  name = "parallelism-test-267",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["267.txt"],
+)
+genrule(
+  name = "parallelism-test-268",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["268.txt"],
+)
+genrule(
+  name = "parallelism-test-269",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["269.txt"],
+)
+genrule(
+  name = "parallelism-test-270",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["270.txt"],
+)
+genrule(
+  name = "parallelism-test-271",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["271.txt"],
+)
+genrule(
+  name = "parallelism-test-272",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["272.txt"],
+)
+genrule(
+  name = "parallelism-test-273",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["273.txt"],
+)
+genrule(
+  name = "parallelism-test-274",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["274.txt"],
+)
+genrule(
+  name = "parallelism-test-275",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["275.txt"],
+)
+genrule(
+  name = "parallelism-test-276",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["276.txt"],
+)
+genrule(
+  name = "parallelism-test-277",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["277.txt"],
+)
+genrule(
+  name = "parallelism-test-278",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["278.txt"],
+)
+genrule(
+  name = "parallelism-test-279",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["279.txt"],
+)
+genrule(
+  name = "parallelism-test-280",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["280.txt"],
+)
+genrule(
+  name = "parallelism-test-281",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["281.txt"],
+)
+genrule(
+  name = "parallelism-test-282",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["282.txt"],
+)
+genrule(
+  name = "parallelism-test-283",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["283.txt"],
+)
+genrule(
+  name = "parallelism-test-284",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["284.txt"],
+)
+genrule(
+  name = "parallelism-test-285",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["285.txt"],
+)
+genrule(
+  name = "parallelism-test-286",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["286.txt"],
+)
+genrule(
+  name = "parallelism-test-287",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["287.txt"],
+)
+genrule(
+  name = "parallelism-test-288",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["288.txt"],
+)
+genrule(
+  name = "parallelism-test-289",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["289.txt"],
+)
+genrule(
+  name = "parallelism-test-290",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["290.txt"],
+)
+genrule(
+  name = "parallelism-test-291",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["291.txt"],
+)
+genrule(
+  name = "parallelism-test-292",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["292.txt"],
+)
+genrule(
+  name = "parallelism-test-293",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["293.txt"],
+)
+genrule(
+  name = "parallelism-test-294",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["294.txt"],
+)
+genrule(
+  name = "parallelism-test-295",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["295.txt"],
+)
+genrule(
+  name = "parallelism-test-296",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["296.txt"],
+)
+genrule(
+  name = "parallelism-test-297",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["297.txt"],
+)
+genrule(
+  name = "parallelism-test-298",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["298.txt"],
+)
+genrule(
+  name = "parallelism-test-299",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["299.txt"],
+)
+genrule(
+  name = "parallelism-test-300",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["300.txt"],
+)
+genrule(
+  name = "parallelism-test-301",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["301.txt"],
+)
+genrule(
+  name = "parallelism-test-302",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["302.txt"],
+)
+genrule(
+  name = "parallelism-test-303",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["303.txt"],
+)
+genrule(
+  name = "parallelism-test-304",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["304.txt"],
+)
+genrule(
+  name = "parallelism-test-305",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["305.txt"],
+)
+genrule(
+  name = "parallelism-test-306",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["306.txt"],
+)
+genrule(
+  name = "parallelism-test-307",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["307.txt"],
+)
+genrule(
+  name = "parallelism-test-308",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["308.txt"],
+)
+genrule(
+  name = "parallelism-test-309",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["309.txt"],
+)
+genrule(
+  name = "parallelism-test-310",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["310.txt"],
+)
+genrule(
+  name = "parallelism-test-311",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["311.txt"],
+)
+genrule(
+  name = "parallelism-test-312",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["312.txt"],
+)
+genrule(
+  name = "parallelism-test-313",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["313.txt"],
+)
+genrule(
+  name = "parallelism-test-314",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["314.txt"],
+)
+genrule(
+  name = "parallelism-test-315",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["315.txt"],
+)
+genrule(
+  name = "parallelism-test-316",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["316.txt"],
+)
+genrule(
+  name = "parallelism-test-317",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["317.txt"],
+)
+genrule(
+  name = "parallelism-test-318",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["318.txt"],
+)
+genrule(
+  name = "parallelism-test-319",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["319.txt"],
+)
+genrule(
+  name = "parallelism-test-320",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["320.txt"],
+)
+genrule(
+  name = "parallelism-test-321",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["321.txt"],
+)
+genrule(
+  name = "parallelism-test-322",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["322.txt"],
+)
+genrule(
+  name = "parallelism-test-323",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["323.txt"],
+)
+genrule(
+  name = "parallelism-test-324",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["324.txt"],
+)
+genrule(
+  name = "parallelism-test-325",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["325.txt"],
+)
+genrule(
+  name = "parallelism-test-326",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["326.txt"],
+)
+genrule(
+  name = "parallelism-test-327",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["327.txt"],
+)
+genrule(
+  name = "parallelism-test-328",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["328.txt"],
+)
+genrule(
+  name = "parallelism-test-329",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["329.txt"],
+)
+genrule(
+  name = "parallelism-test-330",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["330.txt"],
+)
+genrule(
+  name = "parallelism-test-331",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["331.txt"],
+)
+genrule(
+  name = "parallelism-test-332",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["332.txt"],
+)
+genrule(
+  name = "parallelism-test-333",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["333.txt"],
+)
+genrule(
+  name = "parallelism-test-334",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["334.txt"],
+)
+genrule(
+  name = "parallelism-test-335",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["335.txt"],
+)
+genrule(
+  name = "parallelism-test-336",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["336.txt"],
+)
+genrule(
+  name = "parallelism-test-337",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["337.txt"],
+)
+genrule(
+  name = "parallelism-test-338",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["338.txt"],
+)
+genrule(
+  name = "parallelism-test-339",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["339.txt"],
+)
+genrule(
+  name = "parallelism-test-340",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["340.txt"],
+)
+genrule(
+  name = "parallelism-test-341",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["341.txt"],
+)
+genrule(
+  name = "parallelism-test-342",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["342.txt"],
+)
+genrule(
+  name = "parallelism-test-343",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["343.txt"],
+)
+genrule(
+  name = "parallelism-test-344",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["344.txt"],
+)
+genrule(
+  name = "parallelism-test-345",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["345.txt"],
+)
+genrule(
+  name = "parallelism-test-346",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["346.txt"],
+)
+genrule(
+  name = "parallelism-test-347",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["347.txt"],
+)
+genrule(
+  name = "parallelism-test-348",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["348.txt"],
+)
+genrule(
+  name = "parallelism-test-349",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["349.txt"],
+)
+genrule(
+  name = "parallelism-test-350",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["350.txt"],
+)
+genrule(
+  name = "parallelism-test-351",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["351.txt"],
+)
+genrule(
+  name = "parallelism-test-352",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["352.txt"],
+)
+genrule(
+  name = "parallelism-test-353",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["353.txt"],
+)
+genrule(
+  name = "parallelism-test-354",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["354.txt"],
+)
+genrule(
+  name = "parallelism-test-355",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["355.txt"],
+)
+genrule(
+  name = "parallelism-test-356",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["356.txt"],
+)
+genrule(
+  name = "parallelism-test-357",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["357.txt"],
+)
+genrule(
+  name = "parallelism-test-358",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["358.txt"],
+)
+genrule(
+  name = "parallelism-test-359",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["359.txt"],
+)
+genrule(
+  name = "parallelism-test-360",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["360.txt"],
+)
+genrule(
+  name = "parallelism-test-361",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["361.txt"],
+)
+genrule(
+  name = "parallelism-test-362",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["362.txt"],
+)
+genrule(
+  name = "parallelism-test-363",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["363.txt"],
+)
+genrule(
+  name = "parallelism-test-364",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["364.txt"],
+)
+genrule(
+  name = "parallelism-test-365",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["365.txt"],
+)
+genrule(
+  name = "parallelism-test-366",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["366.txt"],
+)
+genrule(
+  name = "parallelism-test-367",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["367.txt"],
+)
+genrule(
+  name = "parallelism-test-368",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["368.txt"],
+)
+genrule(
+  name = "parallelism-test-369",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["369.txt"],
+)
+genrule(
+  name = "parallelism-test-370",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["370.txt"],
+)
+genrule(
+  name = "parallelism-test-371",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["371.txt"],
+)
+genrule(
+  name = "parallelism-test-372",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["372.txt"],
+)
+genrule(
+  name = "parallelism-test-373",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["373.txt"],
+)
+genrule(
+  name = "parallelism-test-374",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["374.txt"],
+)
+genrule(
+  name = "parallelism-test-375",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["375.txt"],
+)
+genrule(
+  name = "parallelism-test-376",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["376.txt"],
+)
+genrule(
+  name = "parallelism-test-377",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["377.txt"],
+)
+genrule(
+  name = "parallelism-test-378",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["378.txt"],
+)
+genrule(
+  name = "parallelism-test-379",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["379.txt"],
+)
+genrule(
+  name = "parallelism-test-380",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["380.txt"],
+)
+genrule(
+  name = "parallelism-test-381",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["381.txt"],
+)
+genrule(
+  name = "parallelism-test-382",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["382.txt"],
+)
+genrule(
+  name = "parallelism-test-383",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["383.txt"],
+)
+genrule(
+  name = "parallelism-test-384",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["384.txt"],
+)
+genrule(
+  name = "parallelism-test-385",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["385.txt"],
+)
+genrule(
+  name = "parallelism-test-386",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["386.txt"],
+)
+genrule(
+  name = "parallelism-test-387",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["387.txt"],
+)
+genrule(
+  name = "parallelism-test-388",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["388.txt"],
+)
+genrule(
+  name = "parallelism-test-389",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["389.txt"],
+)
+genrule(
+  name = "parallelism-test-390",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["390.txt"],
+)
+genrule(
+  name = "parallelism-test-391",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["391.txt"],
+)
+genrule(
+  name = "parallelism-test-392",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["392.txt"],
+)
+genrule(
+  name = "parallelism-test-393",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["393.txt"],
+)
+genrule(
+  name = "parallelism-test-394",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["394.txt"],
+)
+genrule(
+  name = "parallelism-test-395",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["395.txt"],
+)
+genrule(
+  name = "parallelism-test-396",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["396.txt"],
+)
+genrule(
+  name = "parallelism-test-397",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["397.txt"],
+)
+genrule(
+  name = "parallelism-test-398",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["398.txt"],
+)
+genrule(
+  name = "parallelism-test-399",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["399.txt"],
+)
+genrule(
+  name = "parallelism-test-400",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["400.txt"],
+)
+genrule(
+  name = "parallelism-test-401",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["401.txt"],
+)
+genrule(
+  name = "parallelism-test-402",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["402.txt"],
+)
+genrule(
+  name = "parallelism-test-403",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["403.txt"],
+)
+genrule(
+  name = "parallelism-test-404",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["404.txt"],
+)
+genrule(
+  name = "parallelism-test-405",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["405.txt"],
+)
+genrule(
+  name = "parallelism-test-406",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["406.txt"],
+)
+genrule(
+  name = "parallelism-test-407",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["407.txt"],
+)
+genrule(
+  name = "parallelism-test-408",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["408.txt"],
+)
+genrule(
+  name = "parallelism-test-409",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["409.txt"],
+)
+genrule(
+  name = "parallelism-test-410",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["410.txt"],
+)
+genrule(
+  name = "parallelism-test-411",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["411.txt"],
+)
+genrule(
+  name = "parallelism-test-412",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["412.txt"],
+)
+genrule(
+  name = "parallelism-test-413",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["413.txt"],
+)
+genrule(
+  name = "parallelism-test-414",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["414.txt"],
+)
+genrule(
+  name = "parallelism-test-415",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["415.txt"],
+)
+genrule(
+  name = "parallelism-test-416",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["416.txt"],
+)
+genrule(
+  name = "parallelism-test-417",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["417.txt"],
+)
+genrule(
+  name = "parallelism-test-418",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["418.txt"],
+)
+genrule(
+  name = "parallelism-test-419",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["419.txt"],
+)
+genrule(
+  name = "parallelism-test-420",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["420.txt"],
+)
+genrule(
+  name = "parallelism-test-421",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["421.txt"],
+)
+genrule(
+  name = "parallelism-test-422",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["422.txt"],
+)
+genrule(
+  name = "parallelism-test-423",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["423.txt"],
+)
+genrule(
+  name = "parallelism-test-424",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["424.txt"],
+)
+genrule(
+  name = "parallelism-test-425",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["425.txt"],
+)
+genrule(
+  name = "parallelism-test-426",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["426.txt"],
+)
+genrule(
+  name = "parallelism-test-427",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["427.txt"],
+)
+genrule(
+  name = "parallelism-test-428",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["428.txt"],
+)
+genrule(
+  name = "parallelism-test-429",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["429.txt"],
+)
+genrule(
+  name = "parallelism-test-430",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["430.txt"],
+)
+genrule(
+  name = "parallelism-test-431",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["431.txt"],
+)
+genrule(
+  name = "parallelism-test-432",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["432.txt"],
+)
+genrule(
+  name = "parallelism-test-433",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["433.txt"],
+)
+genrule(
+  name = "parallelism-test-434",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["434.txt"],
+)
+genrule(
+  name = "parallelism-test-435",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["435.txt"],
+)
+genrule(
+  name = "parallelism-test-436",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["436.txt"],
+)
+genrule(
+  name = "parallelism-test-437",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["437.txt"],
+)
+genrule(
+  name = "parallelism-test-438",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["438.txt"],
+)
+genrule(
+  name = "parallelism-test-439",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["439.txt"],
+)
+genrule(
+  name = "parallelism-test-440",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["440.txt"],
+)
+genrule(
+  name = "parallelism-test-441",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["441.txt"],
+)
+genrule(
+  name = "parallelism-test-442",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["442.txt"],
+)
+genrule(
+  name = "parallelism-test-443",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["443.txt"],
+)
+genrule(
+  name = "parallelism-test-444",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["444.txt"],
+)
+genrule(
+  name = "parallelism-test-445",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["445.txt"],
+)
+genrule(
+  name = "parallelism-test-446",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["446.txt"],
+)
+genrule(
+  name = "parallelism-test-447",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["447.txt"],
+)
+genrule(
+  name = "parallelism-test-448",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["448.txt"],
+)
+genrule(
+  name = "parallelism-test-449",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["449.txt"],
+)
+genrule(
+  name = "parallelism-test-450",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["450.txt"],
+)
+genrule(
+  name = "parallelism-test-451",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["451.txt"],
+)
+genrule(
+  name = "parallelism-test-452",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["452.txt"],
+)
+genrule(
+  name = "parallelism-test-453",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["453.txt"],
+)
+genrule(
+  name = "parallelism-test-454",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["454.txt"],
+)
+genrule(
+  name = "parallelism-test-455",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["455.txt"],
+)
+genrule(
+  name = "parallelism-test-456",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["456.txt"],
+)
+genrule(
+  name = "parallelism-test-457",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["457.txt"],
+)
+genrule(
+  name = "parallelism-test-458",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["458.txt"],
+)
+genrule(
+  name = "parallelism-test-459",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["459.txt"],
+)
+genrule(
+  name = "parallelism-test-460",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["460.txt"],
+)
+genrule(
+  name = "parallelism-test-461",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["461.txt"],
+)
+genrule(
+  name = "parallelism-test-462",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["462.txt"],
+)
+genrule(
+  name = "parallelism-test-463",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["463.txt"],
+)
+genrule(
+  name = "parallelism-test-464",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["464.txt"],
+)
+genrule(
+  name = "parallelism-test-465",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["465.txt"],
+)
+genrule(
+  name = "parallelism-test-466",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["466.txt"],
+)
+genrule(
+  name = "parallelism-test-467",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["467.txt"],
+)
+genrule(
+  name = "parallelism-test-468",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["468.txt"],
+)
+genrule(
+  name = "parallelism-test-469",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["469.txt"],
+)
+genrule(
+  name = "parallelism-test-470",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["470.txt"],
+)
+genrule(
+  name = "parallelism-test-471",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["471.txt"],
+)
+genrule(
+  name = "parallelism-test-472",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["472.txt"],
+)
+genrule(
+  name = "parallelism-test-473",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["473.txt"],
+)
+genrule(
+  name = "parallelism-test-474",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["474.txt"],
+)
+genrule(
+  name = "parallelism-test-475",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["475.txt"],
+)
+genrule(
+  name = "parallelism-test-476",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["476.txt"],
+)
+genrule(
+  name = "parallelism-test-477",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["477.txt"],
+)
+genrule(
+  name = "parallelism-test-478",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["478.txt"],
+)
+genrule(
+  name = "parallelism-test-479",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["479.txt"],
+)
+genrule(
+  name = "parallelism-test-480",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["480.txt"],
+)
+genrule(
+  name = "parallelism-test-481",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["481.txt"],
+)
+genrule(
+  name = "parallelism-test-482",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["482.txt"],
+)
+genrule(
+  name = "parallelism-test-483",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["483.txt"],
+)
+genrule(
+  name = "parallelism-test-484",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["484.txt"],
+)
+genrule(
+  name = "parallelism-test-485",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["485.txt"],
+)
+genrule(
+  name = "parallelism-test-486",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["486.txt"],
+)
+genrule(
+  name = "parallelism-test-487",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["487.txt"],
+)
+genrule(
+  name = "parallelism-test-488",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["488.txt"],
+)
+genrule(
+  name = "parallelism-test-489",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["489.txt"],
+)
+genrule(
+  name = "parallelism-test-490",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["490.txt"],
+)
+genrule(
+  name = "parallelism-test-491",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["491.txt"],
+)
+genrule(
+  name = "parallelism-test-492",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["492.txt"],
+)
+genrule(
+  name = "parallelism-test-493",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["493.txt"],
+)
+genrule(
+  name = "parallelism-test-494",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["494.txt"],
+)
+genrule(
+  name = "parallelism-test-495",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["495.txt"],
+)
+genrule(
+  name = "parallelism-test-496",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["496.txt"],
+)
+genrule(
+  name = "parallelism-test-497",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["497.txt"],
+)
+genrule(
+  name = "parallelism-test-498",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["498.txt"],
+)
+genrule(
+  name = "parallelism-test-499",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["499.txt"],
+)
+genrule(
+  name = "parallelism-test-500",
+  srcs = [],
+  cmd = "sleep 10 && touch $@",
+  outs = ["500.txt"],
+)
