@@ -4,8 +4,8 @@ platform(
     remote_execution_properties = """
         {PARENT_REMOTE_EXECUTION_PROPERTIES}
         properties: {
-            "name": "Pool",
-            "value": "default2",
+          name: "gceMachineType"
+          value: "n1-standard-2"
         }
     """,
 )
