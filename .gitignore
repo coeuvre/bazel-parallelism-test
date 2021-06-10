@@ -1,1 +1,9 @@
 bazel-*
+input/
+logs/
+disk_cache/
+*.json
+*.log*
+*.out
+netrc
+BUILD*
